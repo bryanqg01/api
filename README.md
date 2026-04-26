@@ -1,4 +1,4 @@
-API RESTful desarrollada con Flask que implementa operaciones CRUD sobre recursos y los complementa con datos curiosos obtenidos de la Chuck Norris API, traducidos automáticamente al español con deep-translator.
+API desarrollada con Flask que implementa operaciones CRUD sobre recursos.
 Proyecto creado como práctica de aprendizaje para la materia de Sistemas de Información.
 
 Características
